@@ -8,11 +8,11 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.salut.integration</groupId>
+	<groupId>br.com.shopping</groupId>
 	<artifactId>shopping</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>shopping</name>
-	<description>Projeto Spring Boot API</description>
+	<description>Projeto Spring Boot API - Nexio Shopping</description>
 
 	<properties>
 		<java.version>1.8</java.version>

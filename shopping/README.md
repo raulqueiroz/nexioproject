@@ -22,7 +22,7 @@ __Par défaut, le projet utilise le DB en mémoire H2__
     spring.h2.console.settings.web-allow-others=true
 
 ### Datasource ###
-#### Créer un dossier local pour h2: C:/dev/h2/dbh2teset####
+####Créer un dossier local pour h2: C:/dev/h2/dbh2teset
     spring.datasource.url=jdbc:h2:file:C:/dev/h2/dbh2teset
     spring.datasource.username=sa
     spring.datasource.password=
